@@ -51,11 +51,15 @@ for i in range(n):
     print('X%d = %0.2f' %(i,x[i]), end= ' ')
 
 ```
+## Program staement:
+![image](https://github.com/SivaramakrishnanBaskar/Gaussian/assets/119476322/da6f3bc4-14fe-46aa-aa53-eeedb7c416af)
+
 
 ## Output:
+![image](https://github.com/SivaramakrishnanBaskar/Gaussian/assets/119476322/09393ed1-ff8e-4b53-85a2-59b92167eca3)
+
 ![214848115-03e640d4-b629-4df4-b0c9-edbb380e0422](https://github.com/SivaramakrishnanBaskar/Gaussian/assets/119476322/e7be487f-b48f-42b4-bc6a-1822a9c89065)
 
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
-
